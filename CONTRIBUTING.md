@@ -1,37 +1,19 @@
 # Contributing to Learn.co Curriculum
 
-We're really exited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
-
-## Raising an Issue to Encourage a Contribution
-
-If you notice a problem with the curriculum that you believe needs improvement
-but you're unable to make the change yourself, you should raise a Github issue
-containing a clear description of the problem. Include relevant snippets of
-the content and/or screenshots if applicable. Curriculum owners regularly review
-issue lists and your issue will be prioritized and addressed as appropriate.
-
-## Submitting a Pull Request to Suggest an Improvement
-
-If you see an opportunity for improvement and can make the change yourself go
-ahead and use a typical git workflow to make it happen:
-
-* Fork this curriculum repository
-* Make the change on your fork, with descriptive commits in the standard format
-* Open a Pull Request against this repo
-
-A curriculum owner will review your change and approve or comment on it in due
-course.
-
-# Why Contribute?
-
-Curriculum on Learn is publicly and freely available under Learn's
-[Educational Content License](https://learn.co/content-license). By
-embracing an open-source contribution model, our goal is for the curriculum
-on Learn to become, in time, the best educational content the world has
-ever seen.
-
-We need help from the community of Learners to maintain and improve the
-educational content. Everything from fixing typos, to correcting
-out-dated information, to improving exposition, to adding better examples,
+We're real, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
+Your favorite fitness tracker may not be totally accurate, according to a study used in an amended complaint filed Thursday against Fitbit.
+
+The class-action lawsuit, filed earlier this year, argues that the PurePulse technology used in the Fitbit trackers that measure your heart rate doesn't do it as well as the company's marketing material promises, a claim Fitbit denies. The technology is used in the more expensive models of the device, the Surge, Blaze and Charge HR.
+The lawsuit was filed on behalf of people who bought these Fitbits specially to help them track their heart rate, whether for health reasons or to make sure they are getting the most out of their workouts.
+"We are not arguing that it is a medical device. I think that is irrelevant," said Jonathan Selbin, one of the attorneys who filed the lawsuit. "This is about the way they market it and that they charge a premium for the heart rate monitor, but it's not giving a meaningful measurement."
+Husband and wife never expected their Fitbit would tell them this ...
+Couple never expected their Fitbit would tell them this ...
+The suit alleges that a defect in the trackers is a safety hazard because people who rely on inaccurate heart rate readings for medical purposes could be at risk. The class-action members say there is no reasonable way for them to know that the devices can be inaccurate and that they might not have even bought them if they knew.
+The amended complaint, filed Thursday, added a new study that looked at how the trackers worked for 43 healthy adults, compared with an ECG and against each other. The participants wore two Fitbits during the test.
+The study -- which was funded by the legal team that brought the lawsuit -- found that the devices were off by, on average, 20 beats per minute during moderate- to high-intensity exercise. The lawsuit concludes that the "devices could not provide meaningful heart rate data" when someone is exercising.
+Here&#39;s why you exercise so much and still can&#39;t lose weight
+Why you exercise so much -- and still can't lose weight
+"It works pretty well when you are resting," study co-author Edward Jo said. But Fitbit is "advertised to people who exercise," and ads suggest that the trackers are "counting every beat."
+Researchers tested the device on 22 men and 21 women, who were observed in a single visit. They wore the devices, a Zephyr Technology BioHarness and a single-channel ECG sensor. Monitored for 65 minutes, the subjects were asked to perform physical activities that were similar to ones represented in the Fitbit ads, including a standing rest, a self-paced jog, jumping rope, climbing stairs, fast movement exercise, treadmill running and a seated rest.
